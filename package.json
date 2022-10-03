@@ -1,0 +1,8 @@
+{
+    "name": "dummymodule",
+    "version": "1.0",
+    "description": "Kann eigentlich nichts",
+    "dependencies": {
+        "mathjs": "^11.2.1"
+    }
+}
